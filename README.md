@@ -1,2 +1,2 @@
-# Dicee-Games
+# Dicee-Game
 Simple game in JavaScript
