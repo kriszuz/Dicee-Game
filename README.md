@@ -4,5 +4,6 @@ Simple game in JavaScript. Generates two random numbers between 1-6 and compares
 </p>
 
 
-![image](https://user-images.githubusercontent.com/109152045/191008085-d192158c-55fc-4cdd-9865-d2328ffe695f.png)
-
+<p align="center">
+    <img width="200" src="[http://material-bread.org/logo-shadow.svg](https://user-images.githubusercontent.com/109152045/191008085-d192158c-55fc-4cdd-9865-d2328ffe695f.png)" alt="Dicee-Game">
+</p>
