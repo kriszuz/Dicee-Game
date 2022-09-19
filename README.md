@@ -1,6 +1,6 @@
 # Dicee-Game
 <p align="center">
-Simple game in JavaScript. Generates two random numbers between 1-6 and compares them.
+    Simple game in JavaScript. Generates two random numbers between 1-6 and compares them.
 </p>
 
 
